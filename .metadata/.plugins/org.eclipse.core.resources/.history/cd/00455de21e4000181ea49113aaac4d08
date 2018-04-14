@@ -1,0 +1,5 @@
+package uk.gov.ons.cass.api;
+
+public interface iNotify {
+
+}
